@@ -1,0 +1,5 @@
+This is a test line that is less than 80 char long.
+This is another test line that is also less than 80 char. long but only by one.
+Here is another test line that is more than 80 char. long, the length of this line is 89.
+The line above is 89 char. long and should be printed. This is the final test line to be printed.
+Finish with a short line.
